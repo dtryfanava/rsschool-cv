@@ -306,4 +306,6 @@ Coming soon...
 
 ## Languages
 
+- English(Upper-Intermediate / Advanced)
+- German(Upper-Intermediate)
 
